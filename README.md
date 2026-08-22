@@ -2,44 +2,29 @@
 
 # `icy-person`
 
-### 🌸 Anime Developer • Rust • Android • Vulkan • Systems
+### ❄️ Rust • Android • Vulkan • Systems • Graphics
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=760&lines=Anime+%2B+Cyberpunk+%2B+Code;Rust+%2B+Android+%2B+Vulkan;Waydroid+%7C+VirtIO-GPU+%7C+AOSP;Building+strange+things+close+to+the+metal" alt="Typing animation" />
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=7DD3FC&center=true&vCenter=true&width=720&lines=Building+low-level+software;Rust+%2B+Android+%2B+Vulkan;Waydroid+%7C+VirtIO-GPU+%7C+AOSP;Cold+ideas%2C+clean+code%2C+deep+systems" alt="Typing animation" />
+</p>
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&text=ICY-PERSON&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&color=gradient" alt="Animated header" />
-
-</div>
-
-## 🌌 Anime / Cyberpunk Pick
-
-<div align="center">
-
-<a href="https://www.reddit.com/r/ImaginaryCyberpunk/comments/l42p2p/">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&text=CYBERPUNK%20CHARACTER%20ART&fontSize=28&fontColor=ffffff&desc=Selected%20from%20Reddit%20%E2%80%A2%20r%2FImaginaryCyberpunk&descAlignY=72&color=0:0b1020,50:312e81,100:7e22ce" alt="Selected cyberpunk artwork" />
+<a href="https://www.reddit.com/r/KaoruHanaWaRintoSaku/comments/1ijtbho">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=ICY-PERSON&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Anime-inspired%20%7C%20White%20Hair%20%7C%20Ice%20Blue%20Aesthetic&descAlignY=62&descSize=16" alt="Anime-inspired header — Reddit artwork source" />
 </a>
 
-<br>
-
-**Selected artwork:** [Cyberpunk Character Art — Reddit / r/ImaginaryCyberpunk](https://www.reddit.com/r/ImaginaryCyberpunk/comments/l42p2p/)
-
-*Artwork discovered on Reddit and credited to the original artist via the source post.*
+<p><sub>Anime artwork reference: Reddit · r/KaoruHanaWaRintoSaku</sub></p>
 
 </div>
 
-## ⚡ About
+## ❄️ About
 
 I build experimental low-level software around **Rust, Android, graphics and systems programming**.
 
-My current interests include GPU virtualization, Vulkan, Waydroid, AOSP, binary translation, developer tooling and Rust-based graphics/UI systems.
+The profile aesthetic is intentionally cold and minimal: **white hair, ice-blue eyes, dark neutrals and soft blue light** — a visual identity inspired by the name `icy-person`, rather than a cyberpunk theme.
 
 ```text
 $ whoami
 icy-person
-
-$ mode
-anime developer / systems hacker
 
 $ focus
 Rust / Android / Vulkan / VirtIO-GPU / AOSP / Graphics
@@ -49,23 +34,21 @@ $ cargo build --release
    Finished release [optimized]
 ```
 
-## 🚀 Featured Projects
+## 🌨️ Featured Projects
 
 | Project | Focus |
 |---|---|
 | **[waydroid-vulkan-analyzer](https://github.com/icy-person/waydroid-vulkan-analyzer)** | Vulkan analysis for Waydroid / Android |
 | **[rust-virtio-gpu](https://github.com/icy-person/rust-virtio-gpu)** | VirtIO-GPU implementation in Rust |
 | **[berberis-android17](https://github.com/icy-person/berberis-android17)** | Android 17 / binary translation research |
-| **[Bevy-GUI](https://github.com/icy-person/Bevy-GUI)** | Rust / Bevy GUI framework experiments |
+| **[Bevy-GUI](https://github.com/icy-person/Bevy-GUI)** | Rust / Bevy GUI experiments |
 | **[BluetoothVPNShare](https://github.com/icy-person/BluetoothVPNShare)** | Android networking / Bluetooth sharing |
 | **[intellij-rust-community-262](https://github.com/icy-person/intellij-rust-community-262)** | Rust IDE tooling / IntelliJ platform |
 
-## 🧰 Tech Stack
+## 🧊 Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=rust,android,linux,git,github,vulkan&perline=6" alt="Tech stack" />
-
 </p>
 
 ```text
@@ -80,7 +63,7 @@ Tooling         Cargo · CMake · Gradle · GitHub Actions
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│                      ✦ ICY LAB ✦                            │
+│                         ICY LAB                              │
 ├──────────────────────────────────────────────────────────────┤
 │  Rust        ████████████████████████░░  systems            │
 │  Vulkan      ██████████████████████░░░░  graphics           │
@@ -93,34 +76,28 @@ Tooling         Cargo · CMake · Gradle · GitHub Actions
 ## 📈 GitHub
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=icy-person&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="165" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icy-person&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Top languages" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=icy-person&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icy-person&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top languages" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=icy-person&hide_border=true&theme=tokyonight" alt="GitHub streak" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=icy-person&hide_border=true&theme=transparent" alt="GitHub streak" />
 </p>
 
 ## 🐍 Contribution Activity
 
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/icy-person/icy-person/output/github-contribution-grid-snake.svg" alt="Animated contribution graph" />
-
 </p>
 
 ## 💭 Philosophy
 
-> Build close to the metal. Understand the stack. Make the impossible compile.
+> Build close to the metal. Keep the design cold and the code sharp.
 
 <div align="center">
 
-### `🌸 Rust × Android × Vulkan × Linux 🌸`
+### `Rust × Android × Vulkan × Linux`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&animation=fadeIn&color=gradient" alt="Footer animation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&animation=fadeIn" alt="Footer animation" />
 
 </div>
